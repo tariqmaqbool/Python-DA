@@ -1,0 +1,8 @@
+Steps:-
+
+1: Install anaconda for python
+2: Create new environment "conda create -n [NAME] python=3.12
+3: Activate environment "conda activate EnvStreamlit"
+4: install streamlit library "pip install streamlit"
+5: run streamlit with "streamlit run [FileName]
+6: install matplotlit,plotly by "pip install matplotlit plotly"
